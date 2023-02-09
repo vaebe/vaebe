@@ -13,5 +13,5 @@
 </p>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=vaebe&show_icons=true" alt="vaebe" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=vaebe" alt="vaebe" /> 
 
