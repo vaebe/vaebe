@@ -1,4 +1,4 @@
-# 嗨，你好啊！
+# 嗨，你好啊 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"><img src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
 ## 关于我
 + 一个普通的前端开发，总有一些奇怪的想法。
