@@ -1,15 +1,20 @@
-# 嗨，你好啊 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"><img src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
+<div align=center>
+嗨，你好啊 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
 
-## 关于我
-+ 一个普通的前端开发，总有一些奇怪的想法。
+一个普通的前端开发，总有一些奇怪的想法。
+
+前端: js、ts、css、html、vue2｜3 全家桶、gis 地图、echats
+
+后端：go、gin、mysql
+</div>
 
 
-## 语言和工具
-+ 前端: js、ts、css、html、vue2｜3 全家桶、gis 地图、echats 图表（熟练使用）
-+ 后端：go、gin、mysql (简单使用)
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=vaebe" alt="vaebe" /> 
+<div align=center>
+   <img src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
+</div>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaebe" alt="vaebe" /> 
+</div>
 
 <!-- multi-platform-posts start -->
   <table align="center">
