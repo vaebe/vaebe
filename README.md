@@ -22,7 +22,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[28天前 👍：0  ⭐：0]
+<li align='left'>[29天前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7233053557833695293" target="_blank">改了个element-plus文档的错误</a>
       </li>
 <li align='left'>[2个月前 👍：6  ⭐：2]
@@ -40,7 +40,7 @@
 <li align='left'>[10个月前 👍：27  ⭐：23]
       <a href="https://juejin.cn/post/7129305693978361886" target="_blank">垃圾代码的一些特点！</a>
       </li>
-<li align='left'>[10个月前 👍：214  ⭐：391]
+<li align='left'>[10个月前 👍：217  ⭐：395]
       <a href="https://juejin.cn/post/7124487017588588574" target="_blank">从零到一建立属于自己的前端组件库</a>
       </li>
 <li align='left'>[10个月前 👍：12  ⭐：15]
