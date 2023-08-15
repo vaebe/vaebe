@@ -22,6 +22,12 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
+<li align='left'>[8小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7267441882397016103" target="_blank">Pinia极速通关！</a>
+      </li>
+<li align='left'>[9小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7267437885858463756" target="_blank">nuxt3 多环境配置及部署</a>
+      </li>
 <li align='left'>[3个月前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7233053557833695293" target="_blank">改了个element-plus文档的错误</a>
       </li>
@@ -45,12 +51,6 @@
       </li>
 <li align='left'>[1年前 👍：12  ⭐：15]
       <a href="https://juejin.cn/post/7124486974211096612" target="_blank">vue3-ccui之组件库打包发布</a>
-      </li>
-<li align='left'>[1年前 👍：13  ⭐：20]
-      <a href="https://juejin.cn/post/7123516611528654884" target="_blank">夏天需要吃西瓜,项目也需要Lint工具链！</a>
-      </li>
-<li align='left'>[1年前 👍：59  ⭐：102]
-      <a href="https://juejin.cn/post/7105930378052894750" target="_blank">不要用vue2的思维写vue3</a>
       </li>
 </ul>
         </td>
