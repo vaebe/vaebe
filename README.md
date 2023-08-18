@@ -57,7 +57,7 @@
 <li align='left'>[1年前 👍：33  ⭐：23]
       <a href="https://juejin.cn/post/7129305693978361886" target="_blank">垃圾代码的一些特点！</a>
       </li>
-<li align='left'>[1年前 👍：249  ⭐：449]
+<li align='left'>[1年前 👍：249  ⭐：450]
       <a href="https://juejin.cn/post/7124487017588588574" target="_blank">从零到一建立属于自己的前端组件库</a>
       </li>
 <li align='left'>[1年前 👍：12  ⭐：15]
