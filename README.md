@@ -2,10 +2,21 @@
 嗨，你好啊 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
 
 一个普通的前端开发，总有一些奇怪的想法。
+</div>
 
-前端: js、ts、css、html、vue2｜3 全家桶、gis 地图、echats
-
-后端：go、gin、mysql
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Golang-1008611?style=flat&logo=go&color=%2376e2ff">
+  <img src="https://img.shields.io/badge/Mysql-1008611?style=flat&logo=Mysql&color=%2302758f">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
 
