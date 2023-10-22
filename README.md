@@ -33,7 +33,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：19  ⭐：47]
+<li align='left'>[1个月前 👍：20  ⭐：48]
       <a href="https://juejin.cn/post/7280007090768298040" target="_blank">go ➕ “蓝兔支付”实现个人网上支付</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：7]
