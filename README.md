@@ -51,7 +51,7 @@
 <li align='left'>[2个月前 👍：1  ⭐：6]
       <a href="https://juejin.cn/post/7267437885858463756" target="_blank">nuxt3 多环境配置及部署</a>
       </li>
-<li align='left'>[5个月前 👍：1  ⭐：0]
+<li align='left'>[5个月前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7233053557833695293" target="_blank">改了个element-plus文档的错误</a>
       </li>
 <li align='left'>[6个月前 👍：6  ⭐：3]
