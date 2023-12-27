@@ -51,7 +51,7 @@
 <li align='left'>[4个月前 👍：23  ⭐：51]
       <a href="https://juejin.cn/post/7267441882397016103" target="_blank">Pinia极速通关！</a>
       </li>
-<li align='left'>[4个月前 👍：1  ⭐：9]
+<li align='left'>[4个月前 👍：1  ⭐：10]
       <a href="https://juejin.cn/post/7267437885858463756" target="_blank">nuxt3 多环境配置及部署</a>
       </li>
 <li align='left'>[7个月前 👍：2  ⭐：0]
