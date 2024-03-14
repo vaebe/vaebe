@@ -33,16 +33,19 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[8小时前 👍：0  ⭐：0]
+<li align='left'>[20小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7345792819754025012" target="_blank">go 基础2</a>
+      </li>
+<li align='left'>[1天前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7345758899305414708" target="_blank">go 基础语法</a>
       </li>
-<li align='left'>[1天前 👍：2  ⭐：2]
+<li align='left'>[2天前 👍：2  ⭐：2]
       <a href="https://juejin.cn/post/7345310754470887458" target="_blank">手摸手开发一个全栈项目</a>
       </li>
-<li align='left'>[4个月前 👍：27  ⭐：44]
+<li align='left'>[4个月前 👍：27  ⭐：45]
       <a href="https://juejin.cn/post/7295644677742985226" target="_blank">使用turfjs、地图实现附近充电宝</a>
       </li>
-<li align='left'>[5个月前 👍：26  ⭐：66]
+<li align='left'>[5个月前 👍：27  ⭐：66]
       <a href="https://juejin.cn/post/7280007090768298040" target="_blank">go ➕ “蓝兔支付”实现个人网上支付</a>
       </li>
 <li align='left'>[5个月前 👍：9  ⭐：20]
@@ -59,9 +62,6 @@
       </li>
 <li align='left'>[7个月前 👍：2  ⭐：15]
       <a href="https://juejin.cn/post/7267437885858463756" target="_blank">nuxt3 多环境配置及部署</a>
-      </li>
-<li align='left'>[10个月前 👍：2  ⭐：0]
-      <a href="https://juejin.cn/post/7233053557833695293" target="_blank">改了个element-plus文档的错误</a>
       </li>
 </ul>
         </td>
