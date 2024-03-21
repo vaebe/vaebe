@@ -33,13 +33,16 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[6天前 👍：0  ⭐：0]
+<li align='left'>[13小时前 👍：1  ⭐：2]
+      <a href="https://juejin.cn/post/7348474490757054504" target="_blank">goframe 打包部署</a>
+      </li>
+<li align='left'>[7天前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7345792819754025012" target="_blank">go 基础2</a>
       </li>
-<li align='left'>[7天前 👍：1  ⭐：0]
+<li align='left'>[8天前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7345758899305414708" target="_blank">go 基础语法</a>
       </li>
-<li align='left'>[8天前 👍：3  ⭐：2]
+<li align='left'>[9天前 👍：3  ⭐：3]
       <a href="https://juejin.cn/post/7345310754470887458" target="_blank">手摸手开发一个全栈项目</a>
       </li>
 <li align='left'>[4个月前 👍：27  ⭐：46]
@@ -59,9 +62,6 @@
       </li>
 <li align='left'>[7个月前 👍：23  ⭐：51]
       <a href="https://juejin.cn/post/7267441882397016103" target="_blank">Pinia极速通关！</a>
-      </li>
-<li align='left'>[7个月前 👍：2  ⭐：15]
-      <a href="https://juejin.cn/post/7267437885858463756" target="_blank">nuxt3 多环境配置及部署</a>
       </li>
 </ul>
         </td>
