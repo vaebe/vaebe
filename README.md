@@ -33,22 +33,22 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[8天前 👍：2  ⭐：8]
+<li align='left'>[9天前 👍：2  ⭐：8]
       <a href="https://juejin.cn/post/7352555529104425012" target="_blank">使用 GitHub actions 自动部署 gf 项目</a>
       </li>
-<li align='left'>[15天前 👍：78  ⭐：124]
+<li align='left'>[16天前 👍：80  ⭐：127]
       <a href="https://juejin.cn/post/7349750846899699764" target="_blank">五年前端这题都做不对?</a>
       </li>
-<li align='left'>[19天前 👍：1  ⭐：3]
+<li align='left'>[20天前 👍：1  ⭐：3]
       <a href="https://juejin.cn/post/7348474490757054504" target="_blank">goframe 打包部署</a>
       </li>
-<li align='left'>[26天前 👍：0  ⭐：0]
+<li align='left'>[27天前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7345792819754025012" target="_blank">go 基础2</a>
       </li>
-<li align='left'>[27天前 👍：1  ⭐：0]
+<li align='left'>[28天前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7345758899305414708" target="_blank">go 基础语法</a>
       </li>
-<li align='left'>[28天前 👍：6  ⭐：5]
+<li align='left'>[29天前 👍：6  ⭐：5]
       <a href="https://juejin.cn/post/7345310754470887458" target="_blank">手摸手开发一个全栈项目</a>
       </li>
 <li align='left'>[5个月前 👍：30  ⭐：51]
