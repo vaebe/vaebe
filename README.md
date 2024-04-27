@@ -33,7 +33,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[25天前 👍：3  ⭐：12]
+<li align='left'>[26天前 👍：3  ⭐：12]
       <a href="https://juejin.cn/post/7352555529104425012" target="_blank">使用 GitHub actions 自动部署 gf 项目</a>
       </li>
 <li align='left'>[1个月前 👍：115  ⭐：180]
