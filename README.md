@@ -1,6 +1,4 @@
 <div align=center>
-嗨，你好啊 <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">
-
 一个普通的前端开发，总有一些奇怪的想法。
 </div>
 
