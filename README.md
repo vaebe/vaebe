@@ -34,7 +34,7 @@
 <li align='left'>[1个月前 👍：4  ⭐：16]
       <a href="https://juejin.cn/post/7352555529104425012" target="_blank">使用 GitHub actions 自动部署 gf 项目</a>
       </li>
-<li align='left'>[1个月前 👍：125  ⭐：207]
+<li align='left'>[1个月前 👍：126  ⭐：207]
       <a href="https://juejin.cn/post/7349750846899699764" target="_blank">五年前端这题都做不对?</a>
       </li>
 <li align='left'>[1个月前 👍：1  ⭐：3]
