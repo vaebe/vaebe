@@ -31,7 +31,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[6天前 👍：3  ⭐：8]
+<li align='left'>[7天前 👍：3  ⭐：8]
       <a href="https://juejin.cn/post/7375438737234247719" target="_blank">20分钟,实现一个根据ip查询地理信息的接口</a>
       </li>
 <li align='left'>[2个月前 👍：5  ⭐：18]
@@ -49,7 +49,7 @@
 <li align='left'>[2个月前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7345758899305414708" target="_blank">go 基础语法</a>
       </li>
-<li align='left'>[2个月前 👍：7  ⭐：5]
+<li align='left'>[3个月前 👍：7  ⭐：5]
       <a href="https://juejin.cn/post/7345310754470887458" target="_blank">手摸手开发一个全栈项目</a>
       </li>
 <li align='left'>[7个月前 👍：32  ⭐：60]
