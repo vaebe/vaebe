@@ -10,7 +10,7 @@
 </div>
 
 <div align=center>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=vaebe&layout=compact&theme=transparent" alt="vaebe" /> 
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=vaebe&layout=compact&rank_icon=percentile&theme=transparent" alt="vaebe" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaebe&layout=compact&theme=transparent" alt="Top Langs">
 </div>
 
