@@ -1,28 +1,17 @@
-<div align=center>
-一个普通的前端开发，总有一些奇怪的想法。
-</div>
+## 一个会写增删改查的前端 <img align="right"  src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Golang-1008611?style=flat&logo=go&color=%2376e2ff">
   <img src="https://img.shields.io/badge/Mysql-1008611?style=flat&logo=Mysql&color=%2302758f">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
-  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-
 <div align=center>
-   <img src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
-</div>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=vaebe" alt="vaebe" /> 
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=vaebe&layout=compact&theme=transparent" alt="vaebe" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaebe&layout=compact&theme=transparent" alt="Top Langs">
 </div>
 
 <!-- multi-platform-posts start -->
