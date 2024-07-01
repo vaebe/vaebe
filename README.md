@@ -1,4 +1,4 @@
-## 一个会写增删改查的前端 <img align="right"  src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
+## 一个会写点增删改查的前端 <img align="right"  src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
