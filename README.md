@@ -20,20 +20,20 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[9天前 👍：1  ⭐：2]
+<li align='left'>[10天前 👍：1  ⭐：2]
       <a href="https://juejin.cn/post/7386848746914480168" target="_blank">nuxt3配置pwa</a>
       </li>
 <li align='left'>[1个月前 👍：7  ⭐：14]
       <a href="https://juejin.cn/post/7375438737234247719" target="_blank">20分钟,实现一个根据ip查询地理信息的接口</a>
       </li>
 <li align='left'>[3个月前 👍：5  ⭐：18]
-      <a href="https://juejin.cn/post/7352555529104425012" target="_blank">使用 GitHub actions 自动部署 gf 项目</a>
+      <a href="https://juejin.cn/post/7352555529104425012" target="_blank">GitHub actions + docker 自动部署 goframe 项目</a>
       </li>
 <li align='left'>[3个月前 👍：162  ⭐：259]
       <a href="https://juejin.cn/post/7349750846899699764" target="_blank">五年前端这题都做不对?</a>
       </li>
 <li align='left'>[3个月前 👍：1  ⭐：4]
-      <a href="https://juejin.cn/post/7348474490757054504" target="_blank">goframe 打包部署</a>
+      <a href="https://juejin.cn/post/7348474490757054504" target="_blank">goframe 手动打包部署</a>
       </li>
 <li align='left'>[4个月前 👍：0  ⭐：1]
       <a href="https://juejin.cn/post/7345792819754025012" target="_blank">go 基础2</a>
