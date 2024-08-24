@@ -20,7 +20,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[9天前 👍：4  ⭐：4]
+<li align='left'>[10天前 👍：4  ⭐：4]
       <a href="https://juejin.cn/post/7402444509153591308" target="_blank">NestJS 使用 TypeORM CLI 高效管理数据库变更</a>
       </li>
 <li align='left'>[1个月前 👍：3  ⭐：7]
