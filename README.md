@@ -20,10 +20,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[18天前 👍：4  ⭐：5]
+<li align='left'>[19天前 👍：4  ⭐：5]
       <a href="https://juejin.cn/post/7402444509153591308" target="_blank">NestJS 使用 TypeORM CLI 高效管理数据库变更</a>
       </li>
-<li align='left'>[1个月前 👍：3  ⭐：8]
+<li align='left'>[1个月前 👍：4  ⭐：8]
       <a href="https://juejin.cn/post/7393551590458998819" target="_blank">网站集成 github 登录太简单了!</a>
       </li>
 <li align='left'>[1个月前 👍：6  ⭐：21]
