@@ -20,13 +20,13 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[7天前 👍：33  ⭐：48]
+<li align='left'>[8天前 👍：33  ⭐：50]
       <a href="https://juejin.cn/post/7413194176006324275" target="_blank">Vue3组件二次封装的小技巧</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：6]
       <a href="https://juejin.cn/post/7402444509153591308" target="_blank">NestJS 使用 TypeORM CLI 高效管理数据库变更</a>
       </li>
-<li align='left'>[1个月前 👍：6  ⭐：8]
+<li align='left'>[2个月前 👍：6  ⭐：8]
       <a href="https://juejin.cn/post/7393551590458998819" target="_blank">网站集成 github 登录太简单了!</a>
       </li>
 <li align='left'>[2个月前 👍：8  ⭐：24]
@@ -44,7 +44,7 @@
 <li align='left'>[5个月前 👍：5  ⭐：19]
       <a href="https://juejin.cn/post/7352555529104425012" target="_blank">GitHub actions + docker 自动部署 goframe 项目</a>
       </li>
-<li align='left'>[5个月前 👍：192  ⭐：315]
+<li align='left'>[5个月前 👍：193  ⭐：316]
       <a href="https://juejin.cn/post/7349750846899699764" target="_blank">五年前端这题都做不对?</a>
       </li>
 <li align='left'>[6个月前 👍：1  ⭐：4]
