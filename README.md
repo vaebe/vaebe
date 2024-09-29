@@ -20,7 +20,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[16天前 👍：39  ⭐：72]
+<li align='left'>[17天前 👍：39  ⭐：72]
       <a href="https://juejin.cn/post/7413194176006324275" target="_blank">Vue3组件二次封装的小技巧</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：6]
