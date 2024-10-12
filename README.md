@@ -20,10 +20,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[22小时前 👍：2  ⭐：3]
+<li align='left'>[1天前 👍：2  ⭐：4]
       <a href="https://juejin.cn/post/7423980772172087331" target="_blank">nextjs集成掘金 bytemd 编辑器</a>
       </li>
-<li align='left'>[29天前 👍：42  ⭐：75]
+<li align='left'>[1个月前 👍：42  ⭐：77]
       <a href="https://juejin.cn/post/7413194176006324275" target="_blank">Vue3组件二次封装的小技巧</a>
       </li>
 <li align='left'>[1个月前 👍：4  ⭐：6]
