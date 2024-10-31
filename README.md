@@ -20,16 +20,19 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：47  ⭐：88]
+<li align='left'>[1个月前 👍：48  ⭐：91]
       <a href="https://juejin.cn/post/7413194176006324275" target="_blank">Vue3组件二次封装的小技巧</a>
       </li>
-<li align='left'>[20小时前 👍：0  ⭐：0]
+<li align='left'>[21小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7431580770214543375" target="_blank">使用 nextjs 构建 ai 对话页面</a>
+      </li>
+<li align='left'>[1天前 👍：0  ⭐：1]
       <a href="https://juejin.cn/post/7431226853250564096" target="_blank">使用 Next.js 定时同步掘金文章到个人博客并展示</a>
       </li>
-<li align='left'>[2天前 👍：12  ⭐：6]
+<li align='left'>[3天前 👍：15  ⭐：7]
       <a href="https://juejin.cn/post/7430494779698806784" target="_blank">写vue的我却用nextjs开发个人博客</a>
       </li>
-<li align='left'>[19天前 👍：2  ⭐：6]
+<li align='left'>[20天前 👍：2  ⭐：6]
       <a href="https://juejin.cn/post/7423980772172087331" target="_blank">nextjs集成掘金 bytemd 编辑器</a>
       </li>
 <li align='left'>[2个月前 👍：4  ⭐：6]
@@ -44,11 +47,8 @@
 <li align='left'>[3个月前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7391704618180526080" target="_blank">GitHub actions 自动部署 goframe 项目到云服务器</a>
       </li>
-<li align='left'>[3个月前 👍：2  ⭐：4]
+<li align='left'>[4个月前 👍：2  ⭐：4]
       <a href="https://juejin.cn/post/7386848746914480168" target="_blank">nuxt3配置pwa</a>
-      </li>
-<li align='left'>[4个月前 👍：8  ⭐：16]
-      <a href="https://juejin.cn/post/7375438737234247719" target="_blank">20分钟,实现一个根据ip查询地理信息的接口</a>
       </li>
 </ul>
         </td>
