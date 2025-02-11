@@ -23,7 +23,7 @@
 <li align='left'>[11个月前 👍：12  ⭐：10]
       <a href="https://juejin.cn/post/7345310754470887458" target="_blank">手摸手开发一个全栈项目</a>
       </li>
-<li align='left'>[3个月前 👍：37  ⭐：41]
+<li align='left'>[3个月前 👍：37  ⭐：42]
       <a href="https://juejin.cn/post/7430494779698806784" target="_blank">写vue的我却用nextjs开发个人博客</a>
       </li>
 <li align='left'>[5个月前 👍：63  ⭐：115]
