@@ -35,7 +35,7 @@
 <li align='left'>[1个月前 👍：3  ⭐：6]
       <a href="https://juejin.cn/post/7456809080344133667" target="_blank">vite 插件打包时记录项目的版本信息让外部访问</a>
       </li>
-<li align='left'>[2个月前 👍：6  ⭐：14]
+<li align='left'>[2个月前 👍：6  ⭐：15]
       <a href="https://juejin.cn/post/7445926398400102440" target="_blank">mswjs 让前端 mock 不只是在本地</a>
       </li>
 <li align='left'>[3个月前 👍：3  ⭐：2]
