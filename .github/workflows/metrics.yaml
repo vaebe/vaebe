@@ -22,11 +22,10 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
           config_twemoji: yes
-          repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
 
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 30
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: bytes-size, percentage
@@ -44,10 +43,6 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_indepth: yes
 
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://green.sapphi.red/feed.rss
-
       - name: Metrics 2
         uses: lowlighter/metrics@latest
         with:
@@ -60,7 +55,6 @@ jobs:
           base: ""
           config_timezone: Asia/Tokyo
           config_twemoji: yes  
-          repositories_skipped: piscon2019,piscon2019-2,go-traq
           use_prebuilt_image: yes
 
           plugin_habits: yes
