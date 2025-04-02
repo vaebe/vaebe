@@ -1,6 +1,6 @@
 ## 一个会写点增删改查的前端 <img align="right"  src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
-<div>
+<div style="display: flex; align-items: flex-start;">
   <img src="./metrics1.svg" alt="vaebe" /> 
   <img src="./metrics2.svg" alt="vaebe" /> 
 </div>
