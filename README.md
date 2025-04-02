@@ -1,8 +1,8 @@
-## 一个会写点增删改查的前端 <img align="right"  src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
+## 一个会写点增删改查的前端 <img align="right" src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="./metrics1.svg" alt="vaebe" /> 
-  <img src="./metrics2.svg" alt="vaebe" /> 
+<div>
+  <img src="https://github.com/vaebe/vaebe/blob/main/metrics1.svg" width="48%" />
+  <img src="https://github.com/vaebe/vaebe/blob/main/metrics2.svg" width="48%" />
 </div>
 
 <!-- multi-platform-posts start -->
