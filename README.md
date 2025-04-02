@@ -1,17 +1,8 @@
 ## 一个会写点增删改查的前端 <img align="right"  src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Golang-1008611?style=flat&logo=go&color=%2376e2ff">
-  <img src="https://img.shields.io/badge/Mysql-1008611?style=flat&logo=Mysql&color=%2302758f">
-  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
-</div>
-
-<div align=center>
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=vaebe&layout=compact&rank_icon=percentile&theme=transparent" alt="vaebe" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaebe&layout=compact&theme=transparent" alt="Top Langs">
+<div>
+  <img src="./metrics1.svg" alt="vaebe" /> 
+  <img src="./metrics2.svg" alt="vaebe" /> 
 </div>
 
 <!-- multi-platform-posts start -->
