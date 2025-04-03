@@ -5,7 +5,7 @@
   <img src="https://github.com/vaebe/vaebe/blob/main/metrics2.svg" width="48%" />
 </div>
 
-<!-- multi-platform-posts start -->
+<!-- juejin-posts start -->
   <table align="center">
       <tr>
         <td align="center" width="800px" valign="top">
@@ -45,5 +45,5 @@
         </td>
       </tr>
     </table>
-    <!-- multi-platform-posts end -->
+<!-- juejin-posts end -->
 
