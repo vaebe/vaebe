@@ -5,8 +5,6 @@ on:
     - cron: '30 22 * * *'
 
 jobs:
-
-  # 插入掘金列表, 使用 baozouai/multi-platform-posts-action 生成文章列表, see: https://github.com/baozouai/multi-platform-posts-action
   juejin-posts:
     runs-on: ubuntu-latest
     steps:
@@ -14,10 +12,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Append Juejin Posts List 📚
-        uses: baozouai/multi-platform-posts-action@main
+        uses: vaebe/juejin-posts-action@main
         with:
-          user_id: '712139266339694' # 上面拿到不同平台的id后，填入这里
-          platform: juejin # 这里填写不同的平台，有juejin, zhihu, segmentfault
+          user_id: '712139266339694'
 
       - run: |
           git pull
