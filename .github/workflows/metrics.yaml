@@ -62,4 +62,5 @@ jobs:
           plugin_habits_from: 200
 
           plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
