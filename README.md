@@ -8,9 +8,9 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (8个月前 👍：72 ⭐：123)
+[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (8个月前 👍：72 ⭐：124)
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (20天前 👍：68 ⭐：89)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (21天前 👍：71 ⭐：93)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (1个月前 👍：22 ⭐：23)
 
