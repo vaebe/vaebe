@@ -8,13 +8,13 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (8个月前 👍：75 ⭐：129)
+[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (8个月前 👍：76 ⭐：130)
 
-[MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (10天前 👍：3 ⭐：7)
+[MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (11天前 👍：3 ⭐：7)
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (1个月前 👍：104 ⭐：149)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (1个月前 👍：104 ⭐：150)
 
-[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (2个月前 👍：23 ⭐：26)
+[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (2个月前 👍：23 ⭐：27)
 
 [这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (2个月前 👍：2 )
 
