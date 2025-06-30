@@ -8,13 +8,13 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (9个月前 👍：79 ⭐：131)
+[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (9个月前 👍：80 ⭐：132)
 
-[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (19天前 👍：0 ⭐：1)
+[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (20天前 👍：0 ⭐：1)
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (1个月前 👍：3 ⭐：7)
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (2个月前 👍：148 ⭐：204)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (2个月前 👍：149 ⭐：207)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (3个月前 👍：25 ⭐：28)
 
