@@ -8,9 +8,9 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (9个月前 👍：80 ⭐：132)
+[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (9个月前 👍：80 ⭐：131)
 
-[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (24天前 👍：0 ⭐：1)
+[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (25天前 👍：0 ⭐：1)
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (1个月前 👍：3 ⭐：9)
 
