@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 48.1 characters per line of code written</li>
+                        <li>Has approximately 49.5 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -234,7 +234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>soccerloway/quill-better-table</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Module for better table in Quill, more useful features are supported.</div>
@@ -287,7 +287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>unjs/obuild</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>attoae/quill-table-better</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A module that enhances the table functionality of Quill.</div>
