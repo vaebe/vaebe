@@ -8,19 +8,19 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (10个月前 👍：80 ⭐：135)
+[Vue3组件二次封装的小技巧](https://juejin.cn/post/7413194176006324275) (11个月前 👍：80 ⭐：135)
 
 [优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (1个月前 👍：1 ⭐：2)
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (2个月前 👍：7 ⭐：11)
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (3个月前 👍：169 ⭐：239)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (3个月前 👍：169 ⭐：241)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (4个月前 👍：25 ⭐：31)
 
 [这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (4个月前 👍：3 )
 
-[这位同学来说一说 vue3 的组件通信](https://juejin.cn/post/7480081951517900800) (4个月前 👍：2 ⭐：4)
+[这位同学来说一说 vue3 的组件通信](https://juejin.cn/post/7480081951517900800) (5个月前 👍：2 ⭐：4)
 
 [解决浏览器麦克风持续显示使用中的问题](https://juejin.cn/post/7476977628777431092) (5个月前 👍：0 ⭐：1)
 
