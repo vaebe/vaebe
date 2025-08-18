@@ -8,9 +8,9 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (3个月前 👍：173 ⭐：247)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (3个月前 👍：174 ⭐：248)
 
-[VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (6天前 👍：1 ⭐：2)
+[VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (7天前 👍：1 ⭐：2)
 
 [优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (2个月前 👍：1 ⭐：2)
 
