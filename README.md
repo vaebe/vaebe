@@ -8,7 +8,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (5个月前 👍：180 ⭐：255)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (5个月前 👍：180 ⭐：256)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (1个月前 👍：1 ⭐：3)
 
