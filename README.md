@@ -8,7 +8,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (6个月前 👍：178 ⭐：258)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (6个月前 👍：178 ⭐：259)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (2个月前 👍：2 ⭐：3)
 
@@ -18,14 +18,14 @@
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (7个月前 👍：28 ⭐：34)
 
-[这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (7个月前 👍：3 )
+[这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (7个月前 👍：3 ⭐：1)
 
 [这位同学来说一说 vue3 的组件通信](https://juejin.cn/post/7480081951517900800) (7个月前 👍：2 ⭐：4)
 
-[解决浏览器麦克风持续显示使用中的问题](https://juejin.cn/post/7476977628777431092) (7个月前 👍：0 ⭐：2)
+[解决浏览器麦克风持续显示使用中的问题](https://juejin.cn/post/7476977628777431092) (8个月前 👍：0 ⭐：2)
 
 [深入解析 mitt 和 vueuse useEventBus 的实现](https://juejin.cn/post/7457228085830778895) (9个月前 👍：6 ⭐：7)
 
-[vite 插件打包时记录项目的版本信息让外部访问](https://juejin.cn/post/7456809080344133667) (9个月前 👍：4 ⭐：11)
+[vite 插件打包时记录项目的版本信息让外部访问](https://juejin.cn/post/7456809080344133667) (9个月前 👍：4 ⭐：12)
 <!-- juejin-posts end -->
 
