@@ -1,9 +1,12 @@
-## 一个会写点增删改查的前端 <img align="right" src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
+## 你好 👋 <img align="right" src="https://komarev.com/ghpvc/?username=vaebe" alt="sudnyeshtalekar" />
 
-<div>
-  <img src="https://github.com/vaebe/vaebe/blob/main/metrics1.svg" width="48%" />
-  <img src="https://github.com/vaebe/vaebe/blob/main/metrics2.svg" width="48%" />
-</div>
+- 我是一名前端工程师，能独立完成大型项目从 0 到 1 的设计、开发与部署，**同时也具备全栈开发能力**
+- 熟练使用 **Vue2/3 全家桶及其生态**进行 PC、H5、微信小程序项目开发
+- 熟练使用 ECharts 及 GIS 地图(高德地图、超图、OpenLayers、Leaflet)开发项目
+- 对前端性能优化、前端工程化有实践
+- 熟悉 Go、React、Nextjs、Nuxtjs、Nestjs、Mysql、ai sdk (在自己的开源项目中实践过)
+
+<img src="https://github.com/vaebe/vaebe/blob/main/metrics1.svg" width="100%" />
 
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
