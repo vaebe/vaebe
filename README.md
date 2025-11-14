@@ -11,7 +11,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (6个月前 👍：178 ⭐：260)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (6个月前 👍：179 ⭐：260)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (3个月前 👍：3 ⭐：3)
 
@@ -19,7 +19,7 @@
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (5个月前 👍：8 ⭐：12)
 
-[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (7个月前 👍：28 ⭐：35)
+[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (7个月前 👍：29 ⭐：35)
 
 [这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (8个月前 👍：3 ⭐：1)
 
