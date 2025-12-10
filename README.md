@@ -11,11 +11,11 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (7个月前 👍：179 ⭐：263)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (7个月前 👍：180 ⭐：263)
 
-[Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (15小时前 👍：1 ⭐：3)
+[Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (1天前 👍：3 ⭐：4)
 
-[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (19天前 👍：2 ⭐：3)
+[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (20天前 👍：2 ⭐：3)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (4个月前 👍：3 ⭐：3)
 
