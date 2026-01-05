@@ -11,9 +11,9 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (8个月前 👍：180 ⭐：265)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (8个月前 👍：180 ⭐：266)
 
-[Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (26天前 👍：3 ⭐：5)
+[Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (27天前 👍：3 ⭐：5)
 
 [使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (1个月前 👍：2 ⭐：3)
 
@@ -27,7 +27,7 @@
 
 [这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (9个月前 👍：3 ⭐：1)
 
-[这位同学来说一说 vue3 的组件通信](https://juejin.cn/post/7480081951517900800) (9个月前 👍：2 ⭐：4)
+[这位同学来说一说 vue3 的组件通信](https://juejin.cn/post/7480081951517900800) (10个月前 👍：2 ⭐：4)
 
 [解决浏览器麦克风持续显示使用中的问题](https://juejin.cn/post/7476977628777431092) (10个月前 👍：0 ⭐：2)
 <!-- juejin-posts end -->
