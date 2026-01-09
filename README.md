@@ -11,7 +11,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (8个月前 👍：180 ⭐：266)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (8个月前 👍：181 ⭐：266)
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (1个月前 👍：3 ⭐：5)
 
