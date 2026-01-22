@@ -11,7 +11,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (9个月前 👍：181 ⭐：268)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (9个月前 👍：182 ⭐：269)
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (1个月前 👍：3 ⭐：7)
 
@@ -21,7 +21,7 @@
 
 [优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (7个月前 👍：1 ⭐：3)
 
-[MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (8个月前 👍：9 ⭐：12)
+[MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (8个月前 👍：10 ⭐：12)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (10个月前 👍：29 ⭐：38)
 
