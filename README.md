@@ -11,7 +11,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (9个月前 👍：182 ⭐：269)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (9个月前 👍：183 ⭐：271)
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (1个月前 👍：3 ⭐：7)
 
@@ -29,6 +29,6 @@
 
 [这位同学来说一说 vue3 的组件通信](https://juejin.cn/post/7480081951517900800) (10个月前 👍：2 ⭐：4)
 
-[解决浏览器麦克风持续显示使用中的问题](https://juejin.cn/post/7476977628777431092) (10个月前 👍：0 ⭐：2)
+[解决浏览器麦克风持续显示使用中的问题](https://juejin.cn/post/7476977628777431092) (11个月前 👍：0 ⭐：2)
 <!-- juejin-posts end -->
 
