@@ -11,11 +11,11 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (10个月前 👍：184 ⭐：272)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (10个月前 👍：184 ⭐：273)
 
-[Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (19天前 👍：2 ⭐：1)
+[Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (20天前 👍：2 ⭐：1)
 
-[优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (19天前 👍：8 ⭐：8)
+[优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (20天前 👍：8 ⭐：8)
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (2个月前 👍：3 ⭐：7)
 
