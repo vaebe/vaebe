@@ -13,9 +13,9 @@
 
 [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (10个月前 👍：184 ⭐：273)
 
-[Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (22天前 👍：2 ⭐：1)
+[Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (23天前 👍：2 ⭐：1)
 
-[优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (22天前 👍：8 ⭐：8)
+[优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (23天前 👍：9 ⭐：9)
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (2个月前 👍：3 ⭐：7)
 
@@ -23,12 +23,12 @@
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (6个月前 👍：3 ⭐：4)
 
-[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (8个月前 👍：1 ⭐：3)
+[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (9个月前 👍：1 ⭐：3)
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (9个月前 👍：10 ⭐：12)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (11个月前 👍：30 ⭐：40)
 
-[这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (11个月前 👍：3 ⭐：1)
+[这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (12个月前 👍：3 ⭐：1)
 <!-- juejin-posts end -->
 
