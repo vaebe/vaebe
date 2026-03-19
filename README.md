@@ -27,7 +27,7 @@
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (10个月前 👍：10 ⭐：12)
 
-[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (11个月前 👍：30 ⭐：40)
+[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (12个月前 👍：30 ⭐：40)
 
 [这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (1年前 👍：3 ⭐：1)
 <!-- juejin-posts end -->
