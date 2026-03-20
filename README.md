@@ -19,7 +19,7 @@
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (3个月前 👍：3 ⭐：7)
 
-[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (3个月前 👍：2 ⭐：3)
+[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (4个月前 👍：2 ⭐：3)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (7个月前 👍：3 ⭐：4)
 
