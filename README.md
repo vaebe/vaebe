@@ -23,7 +23,7 @@
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (7个月前 👍：3 ⭐：4)
 
-[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (9个月前 👍：1 ⭐：3)
+[优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (10个月前 👍：1 ⭐：3)
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (10个月前 👍：10 ⭐：12)
 
