@@ -25,7 +25,7 @@
 
 [优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (10个月前 👍：1 ⭐：3)
 
-[MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (10个月前 👍：10 ⭐：12)
+[MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (11个月前 👍：10 ⭐：12)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (1年前 👍：30 ⭐：40)
 
