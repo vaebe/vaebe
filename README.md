@@ -11,7 +11,7 @@
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
-[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (11个月前 👍：185 ⭐：276)
+[前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (11个月前 👍：186 ⭐：276)
 
 [Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (2个月前 👍：3 ⭐：1)
 
