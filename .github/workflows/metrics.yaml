@@ -1,65 +1,125 @@
 name: Metrics
+
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: "0 2 * * *"
   workflow_dispatch:
-  
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Metrics 1
+      # =========================
+      # Main Metrics
+      # =========================
+      - name: Main metrics
         uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
           filename: metrics1.svg
           user: vaebe
-          base: header, activity, repositories, metadata
+
+          # Base
+          base: header, activity, community, repositories, metadata
+
           config_timezone: Asia/Shanghai
           config_twemoji: yes
           use_prebuilt_image: yes
 
+          # --------------------------------
+          # Languages
+          # --------------------------------
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 30
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_ignored: html, css
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 2%
+          plugin_languages_categories: programming, markup
+          plugin_languages_recent_categories: programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 2%
+          plugin_languages_analysis_timeout: 30
 
-          plugin_lines: yes
+          # --------------------------------
+          # Achievements
+          # --------------------------------
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: no
 
+          # --------------------------------
+          # Repositories
+          # --------------------------------
+          plugin_repositories: yes
+          plugin_repositories_featured: vaebe/your-main-project
+          plugin_repositories_order: pinned, starred, random
+
+          # --------------------------------
+          # Follow-up
+          # --------------------------------
+          plugin_followup: yes
+          plugin_followup_sections: user
+
+          # --------------------------------
+          # Topics
+          # --------------------------------
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+
+      # =========================
+      # Coding Habits
+      # =========================
+      - name: Habits metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          filename: metrics2.svg
+          user: vaebe
+
+          base: ""
+
+          config_timezone: Asia/Shanghai
+          config_twemoji: yes
+          use_prebuilt_image: yes
+
+          # --------------------------------
+          # Habits
+          # --------------------------------
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+
+          # --------------------------------
+          # Isocalendar
+          # --------------------------------
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # --------------------------------
+          # Stars
+          # --------------------------------
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # --------------------------------
+          # Notable repositories
+          # --------------------------------
           plugin_notable: yes
           plugin_notable_filter: stars:>10
           plugin_notable_from: organization
-          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
 
-      - name: Metrics 2
-        uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          filename: metrics2.svg
-          user: vaebe
-          base: ''
-          config_timezone: Asia/Shanghai
-          config_twemoji: yes  
-          use_prebuilt_image: yes
-
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-
-          plugin_stars: yes
-          plugin_stars_limit: 3
+          # --------------------------------
+          # Discussions
+          # --------------------------------
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
