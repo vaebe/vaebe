@@ -28,7 +28,7 @@ jobs:
       - name: Main profile metrics
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ env.METRICS_USER }}
           filename: metrics1.svg
           config_timezone: ${{ env.METRICS_TZ }}
@@ -51,7 +51,6 @@ jobs:
 
           plugin_topics: yes
           plugin_topics_limit: 12
-          plugin_topics_mode: starred
 
           plugin_lines: yes
           plugin_lines_history_limit: 1
