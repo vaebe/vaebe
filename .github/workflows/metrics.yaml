@@ -53,9 +53,6 @@ jobs:
           plugin_topics_limit: 12
           plugin_topics_mode: starred
 
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_sections: base, repositories
