@@ -7,8 +7,8 @@
 - 熟悉 Go、React、Nextjs、Nuxtjs、Nestjs、Mysql、ai sdk (在自己的开源项目中实践过)
 
 <div align="center">
-  <img src="./github-metrics/metrics1.svg" width="48%" />
-  <img src="./github-metrics/metrics2.svg" width="48%" />
+  <img src="./metrics1.svg" width="48%" />
+  <img src="./metrics2.svg" width="48%" />
 </div>
 
 <!-- juejin-posts start -->
