@@ -6,7 +6,10 @@
 - 对前端性能优化、前端工程化有实践
 - 熟悉 Go、React、Nextjs、Nuxtjs、Nestjs、Mysql、ai sdk (在自己的开源项目中实践过)
 
-<img src="https://github.com/vaebe/vaebe/blob/main/metrics1.svg" width="100%" />
+<div align="center">
+  <img src="./github-metrics/metrics1.svg" width="48%" />
+  <img src="./github-metrics/metrics2.svg" width="48%" />
+</div>
 
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
