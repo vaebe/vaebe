@@ -45,10 +45,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaebe&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="github stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaebe&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top languages" />
+<a href="https://github.com/vaebe"><img src="https://img.shields.io/github/followers/vaebe?label=Followers&logo=github&style=for-the-badge&color=7AA2F7" alt="followers" /></a>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vaebe&hide_border=true&theme=tokyonight" alt="github streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vaebe&hide_border=true&theme=tokyonight" alt="github streak" />
 
 </div>
 
@@ -56,18 +55,14 @@
 
 ## 🚀 精选项目
 
-<div align="center">
-
-<a href="https://github.com/vaebe/blog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaebe&repo=blog&hide_border=true&theme=tokyonight" alt="blog" /></a>
-<a href="https://github.com/vaebe/leafletjsExample"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaebe&repo=leafletjsExample&hide_border=true&theme=tokyonight" alt="leafletjsExample" /></a>
-
-<a href="https://github.com/vaebe/kkdl-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaebe&repo=kkdl-go&hide_border=true&theme=tokyonight" alt="kkdl-go" /></a>
-<a href="https://github.com/vaebe/ccui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaebe&repo=ccui&hide_border=true&theme=tokyonight" alt="ccui" /></a>
-
-<a href="https://github.com/vaebe/ai-chat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaebe&repo=ai-chat&hide_border=true&theme=tokyonight" alt="ai-chat" /></a>
-<a href="https://github.com/vaebe/vue3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaebe&repo=vue3&hide_border=true&theme=tokyonight" alt="vue3" /></a>
-
-</div>
+| 项目 | 简介 | Stars · 语言 |
+| --- | --- | --- |
+| **[blog](https://github.com/vaebe/blog)** | 基于 Next.js 的个人博客，含首页秒开优化实践 | ![](https://img.shields.io/github/stars/vaebe/blog?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/blog?style=flat&label=) |
+| **[leafletjsExample](https://github.com/vaebe/leafletjsExample)** | Vue3 + Leaflet.js 地图集成示例集 | ![](https://img.shields.io/github/stars/vaebe/leafletjsExample?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/leafletjsExample?style=flat&label=) |
+| **[kkdl-go](https://github.com/vaebe/kkdl-go)** | 基于 GoFrame 的短链服务后端，含管理功能 | ![](https://img.shields.io/github/stars/vaebe/kkdl-go?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/kkdl-go?style=flat&label=) |
+| **[ccui](https://github.com/vaebe/ccui)** | Vue3 + TSX 组件库示例，配 VitePress 文档 | ![](https://img.shields.io/github/stars/vaebe/ccui?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/ccui?style=flat&label=) |
+| **[ai-chat](https://github.com/vaebe/ai-chat)** | 基于 Next.js 的 AI 对话应用，支持流式与联网搜索 | ![](https://img.shields.io/github/stars/vaebe/ai-chat?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/ai-chat?style=flat&label=) |
+| **[vue3](https://github.com/vaebe/vue3)** | 手写 mini Vue3 实现，理解响应式与渲染原理 | ![](https://img.shields.io/github/stars/vaebe/vue3?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/vue3?style=flat&label=) |
 
 ---
 
@@ -103,6 +98,4 @@
 
 <a href="https://juejin.cn/user/712139266339694/posts"><img src="https://img.shields.io/badge/掘金-1E80FF?style=flat&logo=juejin&logoColor=white" alt="juejin" /></a>
 <a href="https://github.com/vaebe"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" /></a>
-
-<br/>
 </div>
