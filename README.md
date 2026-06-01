@@ -53,19 +53,6 @@
 
 ---
 
-## 🚀 精选项目
-
-| 项目 | 简介 | Stars · 语言 |
-| --- | --- | --- |
-| **[blog](https://github.com/vaebe/blog)** | 基于 Next.js 的个人博客，含首页秒开优化实践 | ![](https://img.shields.io/github/stars/vaebe/blog?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/blog?style=flat&label=) |
-| **[leafletjsExample](https://github.com/vaebe/leafletjsExample)** | Vue3 + Leaflet.js 地图集成示例集 | ![](https://img.shields.io/github/stars/vaebe/leafletjsExample?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/leafletjsExample?style=flat&label=) |
-| **[kkdl-go](https://github.com/vaebe/kkdl-go)** | 基于 GoFrame 的短链服务后端，含管理功能 | ![](https://img.shields.io/github/stars/vaebe/kkdl-go?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/kkdl-go?style=flat&label=) |
-| **[ccui](https://github.com/vaebe/ccui)** | Vue3 + TSX 组件库示例，配 VitePress 文档 | ![](https://img.shields.io/github/stars/vaebe/ccui?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/ccui?style=flat&label=) |
-| **[ai-chat](https://github.com/vaebe/ai-chat)** | 基于 Next.js 的 AI 对话应用，支持流式与联网搜索 | ![](https://img.shields.io/github/stars/vaebe/ai-chat?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/ai-chat?style=flat&label=) |
-| **[vue3](https://github.com/vaebe/vue3)** | 手写 mini Vue3 实现，理解响应式与渲染原理 | ![](https://img.shields.io/github/stars/vaebe/vue3?style=flat&logo=github&label=&color=7AA2F7) ![](https://img.shields.io/github/languages/top/vaebe/vue3?style=flat&label=) |
-
----
-
 <!-- juejin-posts start -->
 ## 掘金文章 <img src='https://raw.githubusercontent.com/vaebe/juejin-posts-action/main/assets/juejin.svg' alt='juejin' width='20' height='20'/>
 
@@ -91,11 +78,4 @@
 <!-- juejin-posts end -->
 
 ---
-
-## 📫 联系我
-
-<div align="center">
-
-<a href="https://juejin.cn/user/712139266339694/posts"><img src="https://img.shields.io/badge/掘金-1E80FF?style=flat&logo=juejin&logoColor=white" alt="juejin" /></a>
-<a href="https://github.com/vaebe"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="github" /></a>
 </div>
