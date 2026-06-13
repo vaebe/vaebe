@@ -58,13 +58,13 @@
 
 [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (1年前 👍：188 ⭐：278)
 
-[Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (3个月前 👍：3 ⭐：2)
+[Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (4个月前 👍：3 ⭐：2)
 
-[优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (3个月前 👍：14 ⭐：13)
+[优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (4个月前 👍：14 ⭐：13)
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (6个月前 👍：3 ⭐：7)
 
-[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (6个月前 👍：2 ⭐：5)
+[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (6个月前 👍：2 ⭐：6)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (10个月前 👍：3 ⭐：4)
 
