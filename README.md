@@ -58,6 +58,8 @@
 
 [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (1年前 👍：188 ⭐：278)
 
+[ 改 3 行配置，我的 Tauri dev 冷启动从 100 秒干到 4 秒](https://juejin.cn/post/7657865700393451554) (17小时前 👍：0 )
+
 [Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (4个月前 👍：3 ⭐：2)
 
 [优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (4个月前 👍：15 ⭐：14)
@@ -73,8 +75,6 @@
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (1年前 👍：10 ⭐：12)
 
 [答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (1年前 👍：30 ⭐：41)
-
-[这位同学说一说 vue3 的 Provide、Inject](https://juejin.cn/post/7480514589253468169) (1年前 👍：3 ⭐：1)
 <!-- juejin-posts end -->
 
 ---
