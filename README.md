@@ -58,17 +58,17 @@
 
 [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (1年前 👍：188 ⭐：278)
 
-[ 改 3 行配置，我的 Tauri dev 冷启动从 100 秒干到 4 秒](https://juejin.cn/post/7657865700393451554) (3天前 👍：0 )
+[ 改 3 行配置，我的 Tauri dev 冷启动从 100 秒干到 4 秒](https://juejin.cn/post/7657865700393451554) (4天前 👍：0 ⭐：1)
 
 [Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (4个月前 👍：3 ⭐：2)
 
 [优化使用 Nuxt3 开发的官网首页，秒开！](https://juejin.cn/post/7605448246995910697) (4个月前 👍：15 ⭐：14)
 
-[Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (6个月前 👍：3 ⭐：7)
+[Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (7个月前 👍：3 ⭐：7)
 
 [使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (7个月前 👍：2 ⭐：6)
 
-[VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (10个月前 👍：3 ⭐：4)
+[VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (11个月前 👍：3 ⭐：4)
 
 [优化 Nextjs 开发的个人博客首页，秒开！](https://juejin.cn/post/7513781200416391218) (1年前 👍：1 ⭐：3)
 
