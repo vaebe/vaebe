@@ -58,7 +58,7 @@
 
 [前端也需要了解的 mcp 知识](https://juejin.cn/post/7495598591488016394) (1年前 👍：188 ⭐：278)
 
-[ 改 3 行配置，我的 Tauri dev 冷启动从 100 秒干到 4 秒](https://juejin.cn/post/7657865700393451554) (14天前 👍：0 ⭐：1)
+[ 改 3 行配置，我的 Tauri dev 冷启动从 100 秒干到 4 秒](https://juejin.cn/post/7657865700393451554) (15天前 👍：0 ⭐：1)
 
 [Nuxt3 与官网 SEO：从 TDK 配置到搜索引擎收录](https://juejin.cn/post/7605419006683152426) (5个月前 👍：3 ⭐：2)
 
@@ -66,7 +66,7 @@
 
 [Git提交信息太乱？AI一键美化！一行命令拯救你的项目历史🚀](https://juejin.cn/post/7581428845683179563) (7个月前 👍：3 ⭐：7)
 
-[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (7个月前 👍：2 ⭐：6)
+[使用 LangChain 创建一个简单的 Agent](https://juejin.cn/post/7574633217761460278) (8个月前 👍：2 ⭐：6)
 
 [VMware Mac m系列安装 Windws 11，保姆级教程](https://juejin.cn/post/7536900619337859114) (11个月前 👍：3 ⭐：4)
 
