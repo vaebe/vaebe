@@ -74,7 +74,7 @@
 
 [MCP Server 的三种实现](https://juejin.cn/post/7505325778222530611) (1年前 👍：10 ⭐：12)
 
-[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (1年前 👍：30 ⭐：41)
+[答应我不要把 mitt 挂载到 vue3 的 globalProperties 上好吗？](https://juejin.cn/post/7484705232904814618) (1年前 👍：30 ⭐：40)
 <!-- juejin-posts end -->
 
 ---
